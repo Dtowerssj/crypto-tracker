@@ -1,0 +1,3 @@
+rojo: #ad182d
+blanco: #eeeeee
+negro: #222222
